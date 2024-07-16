@@ -1,0 +1,36 @@
+header{
+    background-color: #F05707;
+}
+
+#LogoPrinc{
+    min-width: 90px;
+    min-height: 90px;
+    max-width: 120px;
+    max-height: 120px;
+}
+
+#BarrPesq{
+    min-width: 200px;
+    min-height: 30px;
+    max-width: 250px;
+    max-height: 50px;
+}
+
+#BtnPesq{
+    min-width: 70px;
+    min-height: 30px;
+    max-width: 90px;
+    max-height: 50px;
+}
+
+#ImgWpp{
+    display: inline-block;
+}
+
+#ImgFace{
+    display: inline-block;
+}
+
+#ImgInsta{
+    display: inline-block;
+}
